@@ -1,0 +1,1 @@
+C++ tasks of data structure in bachelor£¨not lost£©
